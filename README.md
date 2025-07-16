@@ -1,2 +1,2 @@
 # meme-website
-Loads random memes every 30 minutes
+Python webpage that loads random memes every 30 seconds
